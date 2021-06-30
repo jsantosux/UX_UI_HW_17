@@ -1,0 +1,46 @@
+li {
+    display: inline-block;
+    padding: 20px;
+    /* position: relative; */
+    /* height: 20px; */
+    width: 30px;
+}
+
+/* ul {
+    text-align: end;
+} */
+
+content {
+    align-items: center;
+}
+
+p {
+    display: inline-block;
+    width: 40%;
+    float: left;
+    font-size: 22px;
+    font-family: poppins;
+    margin: 0px;
+}
+
+.navigation {
+    padding: 1%;
+    text-align: center;
+}
+
+footer {
+    display: inline-block;
+    position: bottom;
+}
+.logo{
+    display:inline-block;
+    vertical-align: middle;
+}
+.header{
+    width: 100%;
+}
+.navItems{
+    display: inline-block;
+    padding-right: 10px;
+    float: right;
+}
